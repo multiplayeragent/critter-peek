@@ -1,0 +1,20 @@
+{
+  "name": "Critter Peek",
+  "genre": "kids",
+  "dim": "2D",
+  "mode": "Co-op",
+  "players": "1–6",
+  "hook": "Tap the bushes to find the hiding animals.",
+  "how": "The picture card shows which animal to find; your child taps bushes, logs and haystacks until it hops out, and after two wrong tries the right spot wiggles to help. No reading needed, and finding them all starts a parade.",
+  "controls": "Tap with one finger; the mouse works too",
+  "uses": [
+    ["Bots", "Animal buddies peek slowly and leave the finding to your child."],
+    ["Live sync", "You see each other's fingers, and every peek, at once."],
+    ["Host-run rounds", "One player's browser keeps the round; if it leaves, the next takes over."]
+  ],
+  "ideas": [
+    "Make them dinosaurs hiding in a jungle",
+    "Add a snowy winter meadow",
+    "Hide six animals every round"
+  ]
+}
